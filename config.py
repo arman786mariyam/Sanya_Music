@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH", "0")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "0")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@Mr_ArmanXd")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@SanyaMusicRobot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+BOT_NAME = getenv("BOT_NAME" , "𝐒ᴀɴʏᴀ ✘ 𝐌ᴜsɪᴄ˼")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+ASSUSERNAME = getenv("ASSUSERNAME" , "𝐒ᴀɴʏᴀ ✘ 𝐌ᴜsɪᴄ˼")
 
 API_KEY = "abc921ff654bcf7b3faff8f775d781d27d32bfd02d6692eea30249ba781c8b"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
@@ -28,7 +28,7 @@ API_KEY = "abc921ff654bcf7b3faff8f775d781d27d32bfd02d6692eea30249ba781c8b"  # �
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Arman121:Arman121@arman.ji8gqxd.mongodb.net/?retryWrites=true&w=majority")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -69,8 +69,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABY09_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+OL6jdTL7JAJjYzVl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ArmanCardar")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+fNqysNMcUsBjZmM1")
 SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC")
 CHAT = getenv("CHAT", "https://t.me/chattinghuboo")
 # ------------------------------------------------------------------------------
@@ -139,16 +139,16 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/xhpqtp.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/5its0o.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/fd827f9a4fe8eaa3e8bf4.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/0d3zjd.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/0d3zjd.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/c832e84cd991c865c7e4f.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/0d3zjd.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
